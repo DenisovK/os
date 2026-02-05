@@ -5,6 +5,7 @@
 #include <sys/mman.h>
 #include <fcntl.h>
 
+
 #define SHARED_MEMORY_SIZE 256
 
 int main(int argc, char *argv[]) {
